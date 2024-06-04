@@ -22,7 +22,7 @@ $('form').validate({
             email: true
         },
         telefone: {
-            required: true, telefone: true
+            required: true
         },
         endereco: {
             required: true
